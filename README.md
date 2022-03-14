@@ -6,4 +6,6 @@ La connessione al db sql server sfrutta le credenziali testForm/testForm con un 
 
 Il pulsante del form principale che porta al Form in cui si possono effettuare tutte le operazioni è "Registration".
 
+La definizione della tabella è descritta nel file Employee.rpt (visualizzabile con notepad++ o notepad).
+
 Have fun
